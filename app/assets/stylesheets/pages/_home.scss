@@ -4,8 +4,15 @@ font-family: "calibre", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, H
     -webkit-font-smoothing: antialiased;
 }
 
-.navbar {
-background-color: #black;
+
+
+.navbar-inverse {
+    background-color: #914dff;
+    border-color: #090909;
+}
+
+.container {
+padding-top: 40px;
 }
 
 .name {
@@ -19,13 +26,29 @@ padding-left: 20px;
 padding-top: 40px;
 }
 
+.img-fluid {
+  margin-bottom: 40px;
+
+}
+
+
+
 a{
-color: #995bff;
+color: white;
 padding-right: 14px;
 }
 
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+  color: #9d9d9d;
+  background-color: transparent;
+}
+
 a:hover {
-  color: white;
+  color: #9d9d9d;
 }
 
 

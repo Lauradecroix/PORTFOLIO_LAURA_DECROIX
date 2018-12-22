@@ -4,4 +4,10 @@ class PagesController < ApplicationController
 
   def about
   end
+
+  def skills
+  end
+
+  def experiences
+  end
 end
