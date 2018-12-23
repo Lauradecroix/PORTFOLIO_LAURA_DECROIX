@@ -5,7 +5,7 @@ class PagesController < ApplicationController
   def about
   end
 
-  def skills
+  def education
   end
 
   def experiences
