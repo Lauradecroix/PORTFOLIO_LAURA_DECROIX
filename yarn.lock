@@ -2967,6 +2967,11 @@ ignore-walk@^3.0.1:
   dependencies:
     minimatch "^3.0.4"
 
+imagehover.css@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/imagehover.css/-/imagehover.css-1.0.0.tgz#67e48a5e41a77c9e2acd28332f62352e585d2bfa"
+  integrity sha512-2TGR2VWlnQcIV/jXgfiLXL3E/vhYVgvJKnIbDAH27Cl/gg9P9A5+cwqbgFUnjcgjFth7EiHHTTQZxu5s5Z5fnw==
+
 import-cwd@^2.0.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/import-cwd/-/import-cwd-2.1.0.tgz#aa6cf36e722761285cb371ec6519f53e2435b0a9"
